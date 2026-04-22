@@ -1,5 +1,3 @@
-# TODO: Review and customize this README before publishing.
-
 # Hisuvit
 
 This repository collects coursework notebooks from the Hisuvit course. The notebooks cover k-NN, optimization, SVM experiments, and model-comparison exercises.
